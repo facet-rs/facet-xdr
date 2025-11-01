@@ -16,7 +16,7 @@ default = ["std"]
 
 [dependencies]
 facet-core = { version = "0.28.0", default-features = false }
-facet-reflect = { version = "0.28.0", default-features = false }
+facet-reflect = { version = "0.31.0", default-features = false }
 facet-serialize = { version = "0.28.0", default-features = false }
 
 [dev-dependencies]
